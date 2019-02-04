@@ -1,0 +1,37 @@
+body{
+background: url('../../assets/images/cats.jpg')
+
+}
+
+.hero-section{
+    margin-top: 100px;
+}
+
+.gamebox {
+
+        text-align: center;
+        background-color: blue;
+        margin: 0 auto;
+        width: 40%;
+        border-radius: 20px;
+        padding: 50px;
+        box-shadow: 1px 1px 10px #00000073;
+        border: 2px ridge black;
+}
+
+.gamescores{
+    font-size: 30px;
+    font-family: "playfair Display";
+    text-transform: capitalize;
+}
+
+h1{
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    font-family: 'Carter One', cursive;
+}
+
+.game-container {
+    margin-top: 30px;
+    font-size: 2em;
+}
